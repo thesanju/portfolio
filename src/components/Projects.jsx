@@ -30,7 +30,7 @@ const ProjectCard = () => {
         <Image
           alt="Card background"
           className="object-cover rounded-xl"
-          src="src/assets/2023-07-21_11-40-31_UTC_profile_pic.jpg"
+          src="https://raw.githubusercontent.com/thesanju/portfolio/81bf963d45c6c7b2ce87280d88aa29b87c8ef8fc/src/assets/2023-07-21_11-40-31_UTC_profile_pic.jpg"
           width="100%"
         />
       </CardBody>
